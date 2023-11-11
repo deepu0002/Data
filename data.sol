@@ -5,6 +5,7 @@ contract Data
 {
     function add(uint a,uint b) public pure returns(uint)
     {
+        //new line
         return a+b;
     }
 }
